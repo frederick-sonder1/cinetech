@@ -1,0 +1,37 @@
+.search_cat_movie{
+    display: flex;
+    overflow-x: auto;
+}
+.search_cat_movie a{
+    height:50%;
+}
+
+.search_cat_movie a img {
+    width:100%;
+}
+
+
+.search_cat_tv{
+    display: flex;
+    overflow-x: auto;
+}
+.search_cat_tv a{
+    height:50%;
+}
+
+.search_cat_tv a img {
+    width:100%;
+}
+
+
+.search_cat_person{
+    display: flex;
+    overflow-x: auto;
+}
+.search_cat_person a{
+    height:50%;
+}
+
+.search_cat_person a img {
+    width:100%;
+}
