@@ -1,0 +1,26 @@
+.container{
+    display: flex;
+    flex-direction: column;
+}
+
+.scroll_container{
+    display: flex;
+    overflow-x: auto;
+    height: 350px;
+    scrollbar-size: none;
+
+}
+
+.scroll_card{
+    height: 300px;
+    margin-left: 10px;
+}
+
+.scroll_card a{
+    text-decoration: none;
+    color: black;
+}
+
+.img-fluid{
+    height: 100%;
+}

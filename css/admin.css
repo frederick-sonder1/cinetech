@@ -1,0 +1,20 @@
+.table{
+    width: 100%;
+    border: 1px solid #ddd;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 40px;    
+}
+.tableau-utilisateur{   
+    background-color: #fff;
+    border: 1px solid rgb(6, 238, 37);
+    border-radius: 5px;
+    padding: 10px;
+}
+thead{
+    border: 10px solid rgb(233, 24, 24);
+}
+th{
+    border: 1px solid rgb(73, 24, 233);
+
+}
